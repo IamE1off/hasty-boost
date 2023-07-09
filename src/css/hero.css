@@ -171,6 +171,9 @@
         line-height: 1.07;
         letter-spacing: -2.56px;
     }
+    .hero-scnd-span {
+        font-style: italic;
+    }
 
     .hero-text {
         font-size: 14px;
